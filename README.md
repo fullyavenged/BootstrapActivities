@@ -39,3 +39,5 @@ Template.css
 - Badges: Aside y Section(DIW.html y DWEC.html)
 
 - Modal: Section (Todas las páginas de asignaturas)
+
+- Spinner: Section>Card(APersonal.html)
