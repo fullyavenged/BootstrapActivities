@@ -1,0 +1,37 @@
+#subjet{
+    background-color: #2c3e50;
+    color: white;
+    padding: 5px;
+}
+#subjet a{
+    color: white;
+    text-decoration: none;
+}
+
+#subjet a:hover{
+    color:
+    grey;
+    text-decoration: none;
+}
+.modal-body{
+    color:  #2c3e50;
+}
+
+.modal-title{
+    color:  #2c3e50;
+}
+
+article{
+    margin-top: 20px;
+}
+
+#objetives{
+    margin-left: 60px;
+    margin-right: 60px;
+    background-color: #2c3e50;
+    color: white;
+    padding: 10px;
+}
+#objetives li{
+    font-size: 1.3rem;
+}
