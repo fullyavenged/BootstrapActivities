@@ -1,6 +1,5 @@
 # BootstrapActivities
 ## Páginas
-Index.html
 
 Galeria.html
 
