@@ -4,9 +4,9 @@
 APersonal.html
 
 Asignaturas
-- DIW
-- DWEC
-- DWES
+- DIW.html
+- DWEC.html
+- DWES.html
 
 ## Estilos
 
@@ -22,7 +22,7 @@ Template.css
 
 - Collapse: Aside
 
-- Popover: Section>Card
+- Popover: Section>Card(APersonal.html)
 
 - Card: Section
 
@@ -30,7 +30,7 @@ Template.css
 
 - Jumbotron: Footer
 
-- Progress: Section>Card
+- Progress: Section>Card(APersonal.html)
 
 - Dropdown: Header>Navbar
 
@@ -38,6 +38,6 @@ Template.css
 
 - Badges: Aside y Section(DIW.html y DWEC.html)
 
-- Modal: Section (Todas las páginas de asignaturas)
+- Modal: Section>Titulo de los temas (Todas las páginas de asignaturas)
 
 - Spinner: Section>Card(APersonal.html)
